@@ -1,5 +1,5 @@
 # Resturant
-This is a Resturant website which tell about details and menu with content information too.
+This is a Resturant website which tell about details and menu with content information too. With scrolling Animation effects
 
 # Project ScreenShot 
 <img width="1432" alt="Screenshot 2024-10-23 at 10 57 32 PM" src="https://github.com/user-attachments/assets/08aa3aad-9d16-4d9d-9c99-7b1c7e886f61">
